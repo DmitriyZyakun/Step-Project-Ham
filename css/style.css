@@ -29,7 +29,7 @@ button {
     color: #FFFFFF;
     background-color: transparent;
     border-radius: 5px;
-    cursor: pointer
+    cursor: pointer;
 }
 
 button:focus{
